@@ -45,7 +45,7 @@ async function settingsCommand(sock, chatId, message) {
         const antitagCfg = groupId ? (userGroupData.antitag && userGroupData.antitag[groupId]) : null;
 
         const lines = [];
-        lines.push('*BOT SETTINGS*');
+        lines.push('*ALASTOR - XD Settings*');
         lines.push('');
         lines.push(`• Mode: ${mode.isPublic ? 'Public' : 'Private'}`);
         lines.push(`• Auto Status: ${autoStatus.enabled ? 'ON' : 'OFF'}`);

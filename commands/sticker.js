@@ -36,8 +36,8 @@ async function stickerCommand(sock, chatId, message) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363404912601381@newsletter',
+                    newsletterName: 'ALASTOR - XD',
                     serverMessageId: -1
                 }
             }
@@ -216,8 +216,8 @@ async function stickerCommand(sock, chatId, message) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363404912601381@newsletter',
+                    newsletterName: 'ALASTOR - XD',
                     serverMessageId: -1
                 }
             }

@@ -31,8 +31,8 @@ async function autotypingCommand(sock, chatId, message) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '120363404912601381@newsletter',
+                        newsletterName: 'ALASTOR-XD',
                         serverMessageId: -1
                     }
                 }
@@ -62,8 +62,8 @@ async function autotypingCommand(sock, chatId, message) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '120363404912601381@newsletter',
+                            newsletterName: 'ALASTOR-XD',
                             serverMessageId: -1
                         }
                     }
@@ -85,8 +85,8 @@ async function autotypingCommand(sock, chatId, message) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363404912601381@newsletter',
+                    newsletterName: 'ALASTOR-XD',
                     serverMessageId: -1
                 }
             }
@@ -100,8 +100,8 @@ async function autotypingCommand(sock, chatId, message) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363404912601381@newsletter',
+                    newsletterName: 'ALASTOR-XD',
                     serverMessageId: -1
                 }
             }
