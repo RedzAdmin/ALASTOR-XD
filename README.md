@@ -1,153 +1,179 @@
+# 🤖 ALASTOR-XD 
+
+This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=ALASTOR-XD;Multi+Device+Whatsapp+Bot;Coded+By+CODEBREAKER" alt="Typing SVG" />
+  </a> 
+</div> 
+
+<div align="center"> 
+  <a href="https://youtube.com/@unveiledhacking"> 
+    <img src="https://github.com/RedzAdmin/ALASTOR-XD/blob/main/assets/bot_image.jpg" alt="ALASTOR-XD" height="300"> 
+  </a> 
+</div>
+## 🚀 Steps to Deploy
+
+### Step 1: Fork the Repository
+
+Click the button below to fork the ALASTOR-XDrepository to your GitHub account:
+
 <div align="center">
-  
-  ![ALASTOR-XD Banner](https://files.catbox.moe/3k3rd3.jpg)
-  
-  # 🚀 ALASTOR-XD
-  ### Advanced WhatsApp Bot with 200+ Features
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge&logo=github" alt="Version">
-    <img src="https://img.shields.io/badge/Node.js-18%2B-green?style=for-the-badge&logo=node.js" alt="Node.js">
-    <img src="https://img.shields.io/badge/Baileys-6.5.0-purple?style=for-the-badge" alt="Baileys">
-    <img src="https://img.shields.io/badge/Features-200%2B-orange?style=for-the-badge" alt="Features">
-  </p>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=THE+ULTIMATE+WHATSAPP+EXPERIENCE;POWERED+BY+CODEBREAKER;200%2B+ADVANCED+FEATURES;AI-POWERED+ASSISTANT;MULTI-FUNCTIONAL+BOT" alt="Typing Animation">
-  </p>
-  
-  <br>
-  
-  ## ✨ **Features**
-  
-  <table align="center">
-    <tr>
-      <td align="center">🤖</td>
-      <td><b>AI Powered</b><br>GPT-4, Gemini, Llama, DeepSeek</td>
-      <td align="center">🎨</td>
-      <td><b>Image Tools</b><br>Remini, Wallpaper, Ephoto360</td>
-    </tr>
-    <tr>
-      <td align="center">🎵</td>
-      <td><b>Audio Magic</b><br>Bass boost, Reverse, MP3 convert</td>
-      <td align="center">📥</td>
-      <td><b>Downloader</b><br>YouTube, TikTok, Instagram</td>
-    </tr>
-    <tr>
-      <td align="center">👥</td>
-      <td><b>Group Tools</b><br>45+ management commands</td>
-      <td align="center">🛠️</td>
-      <td><b>Utilities</b><br>Sticker, QR, Calculator, Tools</td>
-    </tr>
-    <tr>
-      <td align="center">🎮</td>
-      <td><b>Entertainment</b><br>Games, Fun, Memes, Quotes</td>
-      <td align="center">🔐</td>
-      <td><b>Security</b><br>Anti-spam, Protection, Filters</td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  ## 🚀 **Quick Start**
-  
-  ```bash
-  # Clone repository
-  git clone https://github.com/CODEBREAKER/ALASTOR-XD.git
-  cd ALASTOR-XD
-  
-  # Install dependencies
-  npm install
-  
-  # Install system dependencies
-  sudo apt install ffmpeg imagemagick webp -y
-  
-  # Configure your bot
-  cp config.example.js config.js
-  # Edit config.js with your settings
-  
-  # Start the bot
-  npm start
-<br>
-⚙️ Configuration
-Edit settings/config.js with your details:
+  <a href="https://github.com/RedzAdmin/ALASTOR-XD/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
 
-javascript
-owner: "CODEBREAKER",
-ownerNumber: "2347030626048",
-botNumber: "-",
-thumbUrl: "https://files.catbox.moe/3k3rd3.jpg",
+---
 
-// Get API keys from:
-ai: {
-  openrouter: { apiKey: "sk-or-v1-..." }, // https://openrouter.ai
-  gemini: { apiKey: "AIzaSyD..." }       // https://makersuite.google.com
-}
-<br>
-📁 Project Structure
-text
-ALASTOR-XD/
-├── plugins/           # 150+ command plugins
-│   ├── ai/           # AI commands (16)
-│   ├── audio/        # Audio effects (5)
-│   ├── ephoto360/    # Text effects (31)
-│   ├── group/        # Group management (15)
-│   └── ...           # Other categories
-├── settings/
-│   └── config.js     # Configuration file
-├── sessions/         # WhatsApp sessions
-├── library/          # Core libraries
-├── index.js          # Main bot file
-├── message.js        # Message handler
-└── package.json      # Dependencies
-<br>
-🎯 Commands Preview
-🤖 AI Commands
-text
-.ai <question>        # AI Chat
-.gemini <query>       # Google Gemini
-.deepseek <prompt>    # DeepSeek AI
-.imagen <text>        # AI Image Generation
-.translate <text>     # Language Translator
-🎨 Image Commands
-text
-.wallpaper <query>    # HD Wallpapers
-.remini (reply)       # Image Enhancement
-.1917style <text>     # Vintage Text Effect
-.matrix <text>        # Matrix Text Effect
-.neonglitch <text>    # Neon Glitch Text
-👥 Group Commands
-text
-.add <number>         # Add member
-.kick @user           # Remove member
-.promote @user        # Make admin
-.antilink on/off      # Link protection
-.welcome set <msg>    # Welcome message
-<br>
-🛡️ Features & Protection
-✅ Anti-spam protection
+### Step 2: Get Pair Code
 
-✅ Auto-backup system
+Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
-✅ Multi-language support
+<div align="center">
+  <a href="https://alastor-webpair.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  </a>
+</div>
 
-✅ Plugin reload system
 
-✅ Error handling & logging
+### After getting creds.json file, upload it to session folder
 
-✅ Auto-reconnect
+---
 
-✅ Channel auto-join
+### Deploy on VPS
 
-✅ Rate limiting
+<div align="center">
+  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
+    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
+  </a>
+</div>
 
-<br>
-📊 Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEBREAKER&repo=ALASTOR-XD&theme=dark&show_icons=true" alt="Repo Stats"> <br> <img src="https://img.shields.io/github/stars/CODEBREAKER/ALASTOR-XD?style=social" alt="Stars"> <img src="https://img.shields.io/github/forks/CODEBREAKER/ALASTOR-XD?style=social" alt="Forks"> <img src="https://img.shields.io/github/watchers/CODEBREAKER/ALASTOR-XD?style=social" alt="Watchers"> </p> <br>
-🌟 Support & Contribution
-<p align="center"> <b>Star this repository if you like it! ⭐</b> <br><br> <a href="https://github.com/CODEBREAKER/ALASTOR-XD/issues">Report Bug</a> • <a href="https://github.com/CODEBREAKER/ALASTOR-XD/pulls">Request Feature</a> • <a href="https://whatsapp.com/channel/0029Vb70IdY60eBmvtGRT00R">Join Channel</a> </p> <br>
-⚠️ Disclaimer
-This project is for educational purposes only. The developer is not responsible for any misuse of this bot. Use at your own risk. WhatsApp is a trademark of Meta Platforms, Inc.
+### Deploy on Below Panel
+<div align="center">
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+</a>
+</div>
 
-<br> <div align="center">
-<h3>🔮 ALASTOR-XD • The Ultimate WhatsApp Experience</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=FF0000&center=true&vCenter=true&width=500&height=30&lines=MADE+BY+CODEBREAKER;©+2025+ALASTOR-XD+All+Rights+Reserved" alt="Made By"> </p> <p align="center"> <sub>⚡ Powered by Baileys • 🚀 Advanced WhatsApp Bot • 🔥 200+ Features</sub> </p> </div> </div>
+### Join Us
+
+<div align="center">
+  <a href="https://t.me/codexemp">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  </a>
+</div>
+
+---
+
+## ⚙️ Features
+
+- **Tag all group members** with the `.tagall` command
+- **Admin restricted usage** (Only group admins can use certain commands)
+- **Games** like Tic-Tac-Toe for interactive group engagement
+- **Text-to-Speech** with `.tts`
+- **Sticker creation** with `.sticker`
+- **Anti-link detection** for group safety
+- **Warn and manage group members** with admin control
+
+---
+
+## 📖 About
+
+The Alastor WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+
+It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+
+---
+
+## 🛠️ Setup & Installation
+
+### Prerequisites
+
+- Node.js installed on your system
+- Git installed (for cloning the repository)
+
+### Step-by-Step Setup
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/RedzAdmin/ALASTOR-XD.git
+    cd ALASTOR-XD
+    ```
+
+2. **Install the dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Run the bot:**
+
+    ```bash
+    node index.js
+    ```
+
+4. **Scan the QR code:**
+
+    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+
+---
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/RedzAdmin/ALASTOR-XD/blob/main/LICENSE) file for details.
+
+---
+
+## 🙌 Contributions
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/RedzAdmin/ALASTOR-XD/issues).
+
+---
+
+## 🌟 Show your support
+
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/RedzAdmin/ALASTOR-XD)!
+
+
+## Credits
+
+- [CODEBREAKER](https://github.com/RedzAdmin)
+- [Baileys](https://github.com/adiwajshing/Baileys)
+- [TechGod143](https://github.com/TechGod143) for pair code
+- [Dgxeon](https://github.com/Dgxeon) for pair code
+
+---
+
+## ⚠️ Important Warning
+
+**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+
+## 📝 Legal
+
+- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
+- This is an independent and unofficial software. Use at your own risk.
+- Do not spam people with this bot.
+- Do not use this bot to send bulk messages or for illegal purposes.
+- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+### License
+This project is licensed under the MIT License. However, you must:
+- Use this software in compliance with all applicable laws and regulations
+- Include original license and copyright notices
+- Credit original authors
+- Not use for spam or malicious purposes
+
+## 📜 Copyright Notice
+
+Copyright (c) 2025 CODEBREAKER. All rights reserved.
+
+This project contains code from various open source projects:
+- Baileys (MIT License)
+- Other libraries as listed in package.json
